@@ -12,9 +12,9 @@ I'm still learning about the CV field, and I'm just open-sourcing some of the pr
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/cswywang/count.svg) visitor,Thank You! :yum::yum:
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cswywang&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-wywang&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ## Contributions
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=cswywang&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=cs-wywang&theme=github-compact&hide_border=true&area=true" />
 
 ## My Skill Set
 
