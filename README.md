@@ -1,5 +1,4 @@
-# Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=cs-wywang&show_icons=true&theme=transparent)
+# Hi there 👋, this is Wangyang Wang
 
 ## About me
 - 🔭 I’m currently in my fourth year of undergraduate studies at Tianjin University :school:, in China. 
@@ -7,6 +6,9 @@
 - 💬 Ask me about anything related to my repos.
 - 📫 How to reach me: wangyangwangwwy@163.com
 - 😄 Read more about my CSDN: [The blog of nhynhy0](https://blog.csdn.net/nhynhy0?spm=1011.2415.3001.5343)
+
+![](https://github-readme-stats.vercel.app/api?username=cs-wywang&show_icons=true&theme=transparent)
+
 
 I'm still learning about the CV field, and I'm just open-sourcing some of the project source code I've implemented here. If you have any questions, feel free to discuss with me. :wink:
 
