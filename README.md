@@ -1,5 +1,5 @@
 # Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=cswywang&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=cs-wywang&show_icons=true&theme=transparent)
 
 ## About me
 - 🔭 I’m currently in my fourth year of undergraduate studies at Tianjin University :school:, in China. 
