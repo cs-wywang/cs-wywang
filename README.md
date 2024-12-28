@@ -1,11 +1,11 @@
 # Hi there 👋, this is Wangyang Wang
+I’m currently in my fourth year of undergraduate studies at Tianjin University :school:, majoring in Computer Science. I'm supervised by Prof.[Qilong Wang](https://csqlwang.github.io/homepage/) to complete my undergraduate project. Next year, I will start to pursue my master's degree with him.
 
-## About me
-- 🔭 I’m currently in my fourth year of undergraduate studies at Tianjin University :school:, in China. 
-- 🌱 I’m currently learning compression methods based on the ViT.
+My research interest includes Computer Vision (CV) and Architecture Design & Optimization. I’m currently learning compression methods based on the ViT.
+
 - 💬 Ask me about anything related to my repos.
 - 📫 How to reach me: wangyangwangwwy@163.com
-- 😄 Read more about my CSDN: [The blog of nhynhy0](https://blog.csdn.net/nhynhy0?spm=1011.2415.3001.5343)
+- 😄 Some notes will be found in my blog: [The blog of nhynhy0](https://blog.csdn.net/nhynhy0?spm=1011.2415.3001.5343)
 
 ![](https://github-readme-stats.vercel.app/api?username=cs-wywang&show_icons=true&theme=transparent)
 
