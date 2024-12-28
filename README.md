@@ -3,6 +3,8 @@ I’m currently in my fourth year of undergraduate studies at Tianjin University
 
 My research interest includes Computer Vision (CV) and Architecture Design & Optimization. I’m currently learning compression methods based on the ViT.
 
+I'm still learning about the CV field, and I'm just open-sourcing some of the project source code I've implemented here. If you have any questions, feel free to discuss with me. :wink:
+
 - 💬 Ask me about anything related to my repos.
 - 📫 How to reach me: wangyangwangwwy@163.com
 - 😄 Some notes will be found in my blog: [The blog of nhynhy0](https://blog.csdn.net/nhynhy0?spm=1011.2415.3001.5343)
@@ -10,7 +12,6 @@ My research interest includes Computer Vision (CV) and Architecture Design & Opt
 ![](https://github-readme-stats.vercel.app/api?username=cs-wywang&show_icons=true&theme=transparent)
 
 
-I'm still learning about the CV field, and I'm just open-sourcing some of the project source code I've implemented here. If you have any questions, feel free to discuss with me. :wink:
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/cswywang/count.svg) visitor,Thank You! :yum::yum:
 ## Most Used Languages
