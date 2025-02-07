@@ -14,8 +14,6 @@ I'm still learning about the CV field, and I'm just open-sourcing some of the pr
 
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/cswywang/count.svg) visitor,Thank You! :yum::yum:
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-wywang&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skill Set
 
